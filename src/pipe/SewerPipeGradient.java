@@ -48,7 +48,7 @@ public class SewerPipeGradient {
 		    l = scanLength2.nextInt(); 
 		    g = (((plvl1 - plvl2)/l)*100);
 		    System.out.println("Gradient of the sewer pipe = " + g + " %");
-		    break;
+		  break;
 				
         	  case 3:
 		    System.out.println("Your choice = millimeters");
