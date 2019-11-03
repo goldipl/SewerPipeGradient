@@ -19,7 +19,7 @@ public class SewerPipeGradient {
         	unit = scanUnit.nextInt();
 		
 		switch (unit) {
-       		case 1:
+       			case 1:
 			    System.out.println("Your choice = meters");
 			    System.out.println("Now you have to enter first pipe level = higher level");
 			    System.out.println("Please use integer ;)");
@@ -33,7 +33,7 @@ public class SewerPipeGradient {
 			    l = scanLength1.nextInt(); 
 			    g = (((plvl1 - plvl2)/l)*100);
 			    System.out.println("Gradient of the sewer pipe = " + g + " %");
-           	break;
+           		break;
 				
 			case 2:
 			    System.out.println("Your choice = centimeters");
