@@ -2,7 +2,7 @@
 * [Application name](#application-name)
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [License](#license)
+* [Author](#author)
 
 ## Application name
 Sewer Pipe Gradient App
@@ -16,5 +16,5 @@ That' all. Pretty simple.
 Project is created with:
 * Java 11
 
-## License
-© Marcin Godlewski 2019
+## Author
+Marcin Godlewski
