@@ -13,7 +13,7 @@ You have to enter your unit, first and second pipe level and pipe length.
 That' all. Pretty simple.
 	
 ## Technologies
-Project is created with:
+Project was created with:
 * Java 11
 
 ## Author
